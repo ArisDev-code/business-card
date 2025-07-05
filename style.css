@@ -1,0 +1,32 @@
+body{
+    margin: 20px;
+    font-family: Helvetica, sans-serif
+}
+
+.image-size{
+    width: 140px;
+    height: 140px;
+    
+    
+}
+
+.card{
+   
+    text-align: center;
+    margin: 0 auto;
+    width: 450px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background:#ddebf8;
+    color:#2b2839;
+    border-bottom:4px solid blue;
+    border-radius:10px;
+    
+
+}
+
+
+     
+
+ 
